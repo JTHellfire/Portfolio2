@@ -45,6 +45,10 @@ h1 h2 h3 h4 h5 p {
     padding-top: 0%;  
   }
 
+.icon {
+    border: 2px solid black;
+}
+
   .lead {
     font-weight: 400;
     font-family: sans-serif;
